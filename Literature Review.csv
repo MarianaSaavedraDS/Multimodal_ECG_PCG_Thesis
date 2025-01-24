@@ -1,0 +1,656 @@
+By Abstract,By Title,Title
+,Y,"A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals."
+,Y,A Multi-Class ECG Signal Classifier Using a Binarized Depthwise Separable CNN with the Merged Convolutionâ€“Pooling Method
+,Y,A new heart sounds segmentation approach based on the correlation between ECG and PCG signals
+,Y,A new method for the measurement of pre-ejection period in the human fetus.
+,Y,A Novel Approach to ECG Classification Based upon Two-Layered HMMs in Body Sensor Networks
+,Y,A Real-Time Wearable Physiological Monitoring System for Home-Based Healthcare Applications
+,Y,A Wearable Multi-Sensor Array Enables the Recording of Heart Sounds in Homecare
+,Y,Algorithms development for systolic time intervals and clinical assessment of cardiac function
+,Y,Assessing Systolic Time-Intervals from Heart Sound: A Feasibility Study
+,Y,Assessment of cardiac time intervals by wavelet transform of the impedance cardiogram.
+,Y,Automated Identification of Persistent Time-Domain Features in Seismocardiogram Signals
+,Y,Automatic analysis of pre-ejection period during sleep using impedance cardiogram.
+,Y,Automatic annotation of peaks in seismocardiogram for systolic time intervals
+,Y,Automatic ECG Classification Using Continuous Wavelet Transform and Convolutional Neural Network
+,Y,Automatic Identification of Systolic Time Intervals in Seismocardiogram.
+,Y,Beat-to-beat estimation of LVET and QS2 indices of cardiac mechanics from wearable seismocardiography in ambulant subjects.
+,Y,Beat-to-beat evaluation of systolic time intervals during bicycle excercise using impedance cardiography
+,Y,Beat-to-beat evaluation of systolic time intervals during bicycle exercise using impedance cardiography.
+Y,Y,Beat-to-beat systolic time-interval measurement from heart sounds and ECG.
+,Y,Can Seismocardiogram Fiducial Points Be Used for the Routine Estimation of Cardiac Time Intervals in Cardiac Patients?
+,Y,Cardiac Time Intervals Derived from Electrocardiography and Seismocardiography in Different Patient Groups
+,Y,Cardiac Time Intervals under Motion Using Bimodal Chest E-Tattoos and Multistage Processing
+,Y,Cardiac Triangle Mapping: A New Systems Approach for Noninvasive Evaluation of Left Ventricular End Diastolic Pressure
+,Y,Changes in left ventricular ejection time and pulse transit time derived from finger photoplethysmogram and electrocardiogram during moderate haemorrhage.
+,Y,Comparison of Different Methods for Estimating Cardiac Timings: A Comprehensive Multimodal Echocardiography Investigation.
+Y,Y,Comparison of systolic time interval measurement modalities for portable devices.
+,Y,Computational Algorithms Underlying the Time-Based Detection of Sudden Cardiac Arrest via Electrocardiographic Markers
+,Y,Current and Future Use of Artificial Intelligence in Electrocardiography
+,Y,Data-driven approach for automatic detection of aortic valve opening: B point detection from impedance cardiogram.
+,Y,Deep Learning Strategy for Sliding ECG Analysis during Cardiopulmonary Resuscitation: Influence of the Hands-Off Time on Accuracy
+,Y,Delineation of 12-Lead ECG Representative Beats Using Convolutional Encoderâ€“Decoders with Residual and Recurrent Connections
+,Y,Detecting heart failure using novel bio-signals and a knowledge enhanced neural network
+,Y,Detection of Aortic Valve Opening and Estimation of Pre-Ejection Period in Forcecardiography Recordings.
+,Y,Development of A Low-Cost Real-Time Bioelectrical Signal Acquisition Module
+,Y,Discrimination of Patients with Varying Degrees of Coronary Artery Stenosis by ECG and PCG Signals Based on Entropy.
+,Y,Dual-Mode Chest Wearable E-Tattoo for the Mobile Detection of Cardiac Time Intervals
+,Y,ECG Identification Based on Non-Fiducial Feature Extraction Using Window Removal Method
+,Y,Electrocardiographic and other Noninvasive Hemodynamic Markers in Decompensated CHF Patients
+,Y,Estimation of Beat-to-Beat Interval and Systolic Time Intervals Using Phono- and Seismocardiograms.
+,Y,Evaluation of left ventricular systolic function using synchronized analysis of heart sounds and the electrocardiogram.
+Y,Y,Features extraction from cardiac-related signals: Comparison among different measurement methods
+,Y,Heart sound-derived systolic time intervals for atrioventricular delay optimization in cardiac resynchronization therapy.
+,Y,Implementation of Wavelet-Transform-Based Algorithms in an FPGA for Heart Rate and RT Interval Automatic Measurements in Real Time: Application in a Long-Term Ambulatory Electrocardiogram Monitor
+,Y,Improved Pre-Ejection Period Estimation From Ballistocardiogram and Electrocardiogram Signals by Fusing Multiple Timing Interval Features
+,Y,Improvement of Left Ventricular Ejection Time Measurement in the Impedance Cardiography Combined with the Reflection Photoplethysmography.
+,Y,Improving Accuracy of Heart Failure Detection Using Data Refinement
+,Y,Learning Explainable Time-Morphology Patterns for Automatic Arrhythmia Classification from Short Single-Lead ECGs
+,Y,Machine Learning in Fetal Health: Improving ECG Analysis with Random Forest
+,Y,Machine Learning Techniques with ECG and EEG Data: An Exploratory Study
+,Y,Mel-frequency cepstral based heart sound signal segmentation for decision support system; [Karar Destek Sistemi İçin Mel-Frekans Kepstral Tabanli Kalp Ses Sinyali Bölütleme Çalişmasi]
+,Y,Novel Approach to Assess Cardiac Function Using Systolic Performance and Myocardial Performance Indices From Simultaneous Electrocardiography and Phonocardiography Recordings in Dogs With Various Stages of Myxomatous Mitral Valve Disease.
+Y,Y,PEP and LVET Detection from PCG and ECG
+,Y,Pre-ejection period (Pep) estimation based on r-wave in ecg and on-body continuous wave radar signal during daily activities
+,Y,"Pre-ejection period, the reason why the electrocardiogram Q-wave is an unreliable indicator of pulse wave initialization."
+,Y,P-wave indices to detect susceptibility to atrial fibrillation
+Y,Y,Quantification of Systolic Time Intervals Using Continuous Wavelet Transform of Electrocardiogram and Phonocardiogram Signals
+,Y,Real-time respiratory rate estimation using imaging photoplethysmography inter-beat intervals
+,Y,Relationships between Blood Pressure and Systolic Time-Intervals: a Lumped-Model Simulation Study
+,Y,Respiratory rate estimation from multi-lead ECGs using an adaptive frequency tracking algorithm
+,Y,Shearlet and contourlet transforms for analysis of electrocardiogram signals.
+,Y,Signal to Image Conversion and Convolutional Neural Networks for Physiological Signal Processing: A Review
+,Y,Splitting the P-Wave: Improved Evaluation of Left Atrial Substrate Modification after Pulmonary Vein Isolation of Paroxysmal Atrial Fibrillation
+,Y,Systolic and Diastolic Time Interval Variability Analysis and Their Relations with Heart Rate Variability
+,Y,Systolic time interval estimation at the sternum using continuous wave radar with body-contact antennas
+,Y,Systolic Time Interval Extraction in Hypertensive and Hypotensive Pig Models Using Wearable Near-Field Radio-Frequency Sensors.
+,Y,The Comparison Features of ECG Signal with Different Sampling Frequencies and Filter Methods for Real-Time Measurement
+,Y,The repeatability of estimated systolic time intervals in healthy subjects using seismocardiogram and electrocardiogram.
+Y,Y,Timing the opening and closure of the aortic valve using a phonocardiogram envelope: A performance test for systolic time intervals measurement.
+,Y,Towards precise tracking of electric-mechanical cardiac time intervals through joint ECG and BCG sensing and signal processing
+,Y,Use of proposed systolic and myocardial performance indices derived from simultaneous ECG and PCG recordings to assess cardiac function in healthy Beagles.
+,Y,Variable impedance cardiography waveforms: How to evaluate the preejection period more accurately
+Y,Y,"Wearable Cardiorespiratory Monitoring Employing a Multimodal Digital Patch Stethoscope: Estimation of ECG, PEP, LVET and Respiration Using a 55 mm Single-Lead ECG and Phonocardiogram"
+,Y,Wearable seismocardiography for the beat-to-beat assessment of cardiac intervals during sleep.
+,Y,Wearable seismocardiography: Towards a beat-by-beat assessment of cardiac mechanics in ambulant subjects.
+,N,A new algorithm for segmentation of cardiac quiescent phases and cardiac time intervals using seismocardiography
+,N,A comparison of acoustic cardiography and echocardiography for optimizing pacemaker settings in cardiac resynchronization therapy.
+,N,A new and simple method for distinguishing complete from incomplete block through the cavotricuspid isthmus.
+,N,"""Sleep disordered breathing and ECG R-wave to radial artery pulse delay, The Multi-Ethnic Study of Atherosclerosis""."
+,N,10.3390/s20164522
+,N,3D-ballistocardiography in microgravity: Comparison with ground based recordings.
+,N,A Case of Lateral Cavotricuspid Isthmus (CTI) Reentrant Atrial Tachycardia (AT) Showing ECG Similar to Common Atrial Flutter (AFL) without Prior Ablation
+,N,A Case of Post-MAZE Atrial Flutter
+,N,A Case with Macroreentrant Atrial Tachycardia around Sinus Venosa Region -Demonstration of Conduction across Crista Terminalis after Cavotricuspid Isthmus Block-
+,N,A cause of dilated cardiomyopathy in child: Primary carnitine deficiency; [Une cause de cardiomyopathie dilatée chez l'enfant : Le déficit primaire en carnitine]
+,N,A correlation between digoxin plasma concentrations and systolic time intervals in hospitalized congestive heart failure patients.
+,N,A Fast Deep Learning ECG Sex Identifier Based on Wavelet RGB Image Classification
+,N,A model-based study of the influence of vaso-active drugs on pulse delays measured from the electrocardiogram
+,N,A Narrowband IoT Personal Sensor for Long-Term Heart Rate Monitoring and Atrial Fibrillation Detection
+,N,A new approach for daily life Blood-Pressure estimation using smart watch
+,N,A new method for ECG tracking of persistent atrial fibrillation termination during stepwise ablation
+,N,A new method to calculate the beat-to-beat instability of QT duration in drug-induced long QT in anesthetized dogs.
+,N,A novel continuous cardiac output monitor based on pulse wave transit time.
+,N,A novel handheld device for use in remote patient monitoring of heart failure patients-design and preliminary validation on healthy subjects
+,N,A novel preprocessing tool to enhance ECG R-wave extraction
+,N,A Novel Smartphone App for the Measurement of Ultra-Short-Term and Short-Term Heart Rate Variability: Validity and Reliability Study.
+,N,A Novel SVD Noise Cancellation Algorithm for ICG Signal
+,N,A portable multi-physiological signal synchronization acquisition device for cuff-less blood pressure variation tracking
+,N,A Prototype Framework Design for Assisting the Detection of Atrial Fibrillation Using a Generic Low-Cost Biomedical Sensor
+,N,A rapid approach to assess cardiac contractility by ballistocardiogram and electrocardiogram.
+,N,A real-time compressed sensing-based personal electrocardiogram monitoring system
+,N,A Review of Atrial Fibrillation Detection Methods as a Service
+,N,A study of the clinical application value of ultrasound and electrocardiogram in the differential diagnosis of cardiomyopathy.
+,N,A Tale of 2 Hearts: Simultaneous Dual Tachycardias Occurring 22 Years After Orthotopic Heart Transplantation.
+,N,A textile-based wearable system for the prolonged assessment of cardiac mechanics in daily life.
+,N,A Thorax Simulator for Complex Dynamic Bioimpedance Measurements With Textile Electrodes.
+,N,A validation study of electrical cardiometry in pregnant patients using transthoracic echocardiography as the reference standard
+,N,A Vehicle Passive Entry Passive Start System with the Intelligent Internet of Things
+,N,Ablation of typical atrial flutter guided by the paced PR interval on the surface electrocardiogram: A proof of concept study.
+,N,Ablation outcomes and quality of life in patients with atrial flutter and concomitant paroxysmal atrial fibrillation
+,N,Abnormal systolic time intervals in obesity and their relationship with the amount of overweight.
+,N,Absolute-delay multiphase reconstruction reduces prosthetic valve-related and atrial fibrillation-related artifacts at cardiac CT
+,N,Accurate Pulse Transit Time Acquisition Method for Multi-Point Photoplethysmography
+,N,Achieving Real-Time Prediction of Paroxysmal Atrial Fibrillation Onset by Convolutional Neural Network and Sliding Window on R-R Interval Sequences
+,N,Acoustic cardiographic indices of transmyocardial ischemia during percutaneous coronary intervention
+,N,Acute effects of fine particulate air pollution on ST segment height: a longitudinal study.
+,N,"Acute Effects of Nicardipine and Esmolol on The Cardiac Cycle, Intracardiac Hemodynamic and Endothelial Shear Stress in Patients With Unstable Angina Pectoris and Moderate Coronary Stenosis: Results From Single Center, Randomized Study"
+,N,Acute hemodynamic effects of medetomidine and clonidine in healthy volunteers: a noninvasive echocardiographic study.
+,N,Acute phosphine poisoning on board a bulk carrier: Analysis of factors leading to a fatal case
+,N,Adaption of the standard 12-lead ECG system focusing on atrial electrical activity
+,N,Adaptive multiple frequency tracking algorithm: Detection of stable atrial fibrillation sources from standard 12-lead ECG
+,N,Advanced observation and telemetry heart system utilizing wearable ECG device and a Cloud platform
+,N,"Age, gender and drug therapy influences on Tpeak-tend interval and on electrical risk score."
+,N,Agentic extraversion modulates the cardiovascular effects of the dopamine D2 agonist bromocriptine
+,N,Age-related digoxin effects in an intact canine model.
+,N,AI-enabled epidermal electronic system to automatically monitor a prognostic parameter for hypertension with a smartphone
+,N,Airline Point-of-Care System on Seat Belt for Hybrid Physiological Signal Monitoring
+,N,Algorithm for cavo-Tricuspid isthmus flutter on surface ECGs: The ACTIONS study.
+,N,Ambulatory measurement of the ECG T-wave amplitude.
+,N,An adaptive organization index to characterize atrial fibrillation using wrist-type photoplethysmographic signals
+,N,An approach to catheter ablation of cavotricuspid isthmus dependent atrial flutter.
+,N,An Automated High-Accuracy Detection Scheme for Myocardial Ischemia Based on Multi-Lead Long-Interval ECG and Choi-Williams Time-Frequency Analysis Incorporating a Multi-Class SVM Classifier
+,N,An Ear-Worn Vital Signs Monitor.
+,N,An ECG Stitching Scheme for Driver Arrhythmia Classification Based on Deep Learning
+,N,An Independent Component Analysis Approach to Motion Noise Cancelation of Cardio-Mechanical Signals
+,N,An Investigation on the Effect of Extremely Low Frequency Pulsed Electromagnetic Fields on Human Electrocardiograms (ECGs)
+,N,An unobtrusive wearable device for ambulatory monitoring of pulse transit time to estimate central blood pressure
+,N,Analysis and correction of ballistocardiogram contamination of EEG recordings in MR.
+,N,Analysis of cardiovascular time series using multivariate sample entropy: A comparison between normal and congestive heart failure subjects
+,N,Analysis of Physiological Signals for Stress Recognition with Different Car Handling Setups
+,N,Analyzing SCG methodology for identification of ventricular depolarization events
+,N,Antiarrhythmic Effect of Sacubitril-Valsartan: Cause or Consequence of Clinical Improvement?
+,N,Antiarrhythmic Properties of Elsholtzia ciliata Essential Oil on Electrical Activity of the Isolated Rabbit Heart and Preferential Inhibition of Sodium Conductance
+,N,Application of automated fetal valve motion identification to investigate fetal heart anomalies
+,N,Application of impedance cardiographic ambulatory monitoring device for analysis of central hemodynamic variability in atrial fibrillation
+,N,Application of Permutation Entropy and Permutation Min-Entropy in Multiple Emotional States Analysis of RRI Time Series
+,N,Application of phonocardiography on preterm infants with patent ductus arteriosus
+,N,Application of the Permutation Entropy over the Heart Rate Variability for the Improvement of Electrocardiogram-based Sleep Breathing Pause Detection
+,N,Arrhythmia and Heart Rate Variability during Long Interdialytic Periods in Patients on Maintenance Hemodialysis: Prospective Observational Cohort Study
+,N,Arrhythmias among Older Adults Receiving Comprehensive Geriatric Care: Prevalence and Associated Factors
+,N,Arrhythmogenic right ventricular cardiomyopathy - Time for Nordic cooperation!
+,N,Arsenic in cancer therapy
+,N,Artificial Intelligence Applied to Electrical and Non-Invasive Hemodynamic Markers in Elderly Decompensated Chronic Heart Failure Patients
+,N,Artificial intelligence-enabled electrocardiogram to distinguish cavotricuspid isthmus dependence from other atrial tachycardia mechanisms.
+,N,Assessing cardiac preload by the Initial Systolic Time Interval obtained from impedance cardiography
+,N,Assessing Driversâ€™ Physiological Responses Using Consumer Grade Devices
+,N,Assessment of Cardiac Autonomic Function by Short-Term Sensor-Based and Long-Term Heart Rate Variability Analyses in Individuals with Spinal Cord Injury After Long-Term Table Tennis Training
+,N,Assessment of cardiac function in marathon runners by graphic noninvasive techniques.
+,N,Assessment of Cardio-Respiratory Relationship during and after Exercise in Healthy Recreative Male Subjects: A Pilot Study
+,N,Assessment of myocardial function in Retrievers with dilated cardiomyopathy using 2D speckle tracking echocardiography: a pilot study
+,N,Assessment of pre-ejection period in ambulatory subjects using seismocardiogram in a wearable blood pressure monitor.
+,N,Assessment of Prescribing and Monitoring Habits for Patients Taking an Antiarrhythmic and Concomitant QTc-Prolonging Antibiotic
+,N,Assessment of right ventricular diastolic function by tissue doppler imaging in patients with acute right ventricular myocardial infarction
+,N,Assessment of systolic and diastolic function in clinically healthy horses using ambulatory acoustic cardiography.
+,N,Assessment of systolic and diastolic function in heart failure using ambulatory monitoring with acoustic cardiography
+,N,Assessment of the Cardiac Response to Sleep Arousal
+,N,Association between Levels of Urine Di-(2-ethylhexyl)phthalate Metabolites and Heart Rate Variability in Young Adults
+,N,Association between phonocardiography and echocardiography in heart failure patients with preserved ejection fraction
+,N,Association Between Serum Irisin Levels and ST-Segment Elevation Myocardial Infarction.
+,N,Association of longer QT interval with arterial waveform and lower pulse pressure amplification: The nagahama study
+,N,Associations Between Colonic Motor Patterns and Autonomic Nervous System Activity Assessed by High-Resolution Manometry and Concurrent Heart Rate Variability.
+,N,"Atrial Fibrillation Diagnosis Timing, Ambulatory ECG Monitoring Utilization, and Risk of Recurrent Stroke."
+,N,Atrial Flutter.
+,N,Atrial tachycardias after atrial fibrillation ablation manifest different waveform characteristics: Implications for characterizing tachycardias
+,N,Atrial Tachycardias After Atrial Fibrillation Ablation Manifest Different Waveform Characteristics: Implications for Characterizing Tachycardias.
+,N,Atrioventricular conduction delay in fetuses exposed to anti-SSA/Ro and anti-SSB/La antibodies: A magnetocardiography study
+,N,Atrioventricular Synchronization for Detection of Atrial Fibrillation and Flutter in One to Twelve ECG Leads Using a Dense Neural Network Classifier
+,N,Atypical Atrial Flutter following Circumferential Left Atrial Ablation
+,N,Atypical electrocardiographic features of cavotricuspid isthmus-dependent atrial flutter occurring during left atrial fibrillation ablation.
+,N,Atypical Electrocardiographic Features of Cavotricuspid Isthmus-Dependent Atrial Flutter Occurring during Left Fibrillation Ablation
+,N,Autoencoder-Based Extrasystole Detection and Modification of RRI Data for Precise Heart Rate Variability Analysis
+,N,Automated Detection of Sudden Cardiac Death by Discrete Wavelet Transform of Electrocardiogram Signal
+,N,Automated pre-ejection period variation indexed to tidal volume predicts fluid responsiveness after cardiac surgery.
+,N,Automatic and robust delineation of the fiducial points of the seismocardiogram signal for noninvasive estimation of cardiac time intervals
+,N,Automatic Atrial Fibrillation Arrhythmia Detection Using Univariate and Multivariate Data
+,N,Automatic Detection of Atrial Fibrillation in ECG Using Co-Occurrence Patterns of Dynamic Symbol Assignment and Machine Learning
+,N,Autonomic Dysfunction and Cardiovascular Risk in Patients with Rheumatoid Arthritis: Can Heart Rate Variability Analysis Contribute to a Better Evaluation of the Cardiovascular Profile of a Patient?
+,N,"Autonomic function testing aboard the ISS using ""Pneumocard"""
+,N,Beyond auscultation - Acoustic cardiography in the diagnosis and assessment of cardiac disease
+,N,Biosignal-Based Digital Biomarkers for Prediction of Ventilator Weaning Success
+,N,Blockchain-Based Solutions Supporting Reliable Healthcare for Fog Computing and Internet of Medical Things (IoMT) Integration
+,N,Blood Pressure Estimation Using On-body Continuous Wave Radar and Photoplethysmogram in Various Posture and Exercise Conditions.
+,N,Blue scale: Early detection of impending congestive heart failure events via wireless daily self-monitoring
+,N,Bufferless Compression of Asynchronously Sampled ECG Signals in Cubic Hermitian Vector Space
+,N,Callous-unemotional traits and pre-ejection period in response to reward.
+,N,Cancer stem cells and therapeutic perspectives
+,N,Cardiac alterations in 36 consecutive patients with idiopathic haemochromatosis: polygraphic and echocardiographic evaluation.
+,N,"Cardiac dysfunction, monitoring, and management"
+,N,Cardiac Electromechanical Activity in Healthy Cats and Cats with Cardiomyopathies.
+,N,Cardiac Function Monitoring for Patients Undergoing Cancer Treatments Using Wearable Seismocardiography: A Proof-of-Concept Study
+,N,Cardiac Physiology
+,N,Cardiac systolic time intervals in fetal monkeys: pre-ejection period.
+,N,"Cardiac troponin elevation, cardiovascular morbidity, and outcome after subarachnoid hemorrhage."
+,N,Cardiac typing and the diagnostic challenge of the preinfarction state by direct body ballistocardiography.
+,N,Cardiodiagnostics Based on Photoplethysmographic Signals
+,N,Cardiotoxicity of lead at various perfusate calcium concentrations: functional and metabolic responses of the perfused rat heart.
+,N,Cardiovascular (ECG and systolic time intervals) and anticholinergic effects of repeated doses of femoxetine--a comparison with amitriptyline and placebo in healthy men.
+,N,Cardiovascular changes during the performance by nonathletes of Bosco repeated jumps anaerobic test
+,N,"Cardiovascular effects of amitriptyline, mianserin, zimelidine and nomifensine in depressed patients."
+,N,"Cardiovascular effects, pharmacokinetics and cross-reactivity in digitalis glycoside immunoassays of an antidiarrheal uzara root extract"
+,N,Cardiovascular findings in very low birthweight schoolchildren with and without bronchopulmonary dysplasia
+,N,Cardiovascular imaging in conduction system pacing: What does the clinician need?
+,N,"Cardiovascular responses of Type A and Type B behavior patterns to visual stimulation during rest, stress and recovery."
+,N,Carnosic acid mitigates doxorubicin-induced cardiac toxicity: Evidence from animal and cell model investigations.
+,N,Carotid artery pulse wave time characteristics to quantify ventriculoarterial responses to orthostatic challenge
+,N,Case 10
+,N,"Case 12: A 56 y/o Man, with Typical AFL"
+,N,Case 13
+,N,Case 14
+,N,Case 16
+,N,Case 6
+,N,Catheter ablation of atrial flutter: A survey focusing on post ablation oral anticoagulation management and ECG monitoring.
+,N,Catheter ablation of cavotricuspid isthmus dependent atrial flutters
+,N,Central haemodynamic variability during sleep in subjects with and without atrial fibrillation
+,N,Cerebral blood flow velocity wave form as an indicator of neonatal left ventricular heart function.
+,N,Change in pulse transit time and pre-ejection period during head-up tilt-induced progressive central hypovolaemia.
+,N,Change of cardiac reserve during abnormal pregnancy and its evaluation
+,N,Changes in cardiac and respiratory function of Antarctic Research Expedition members--preliminary report.
+,N,Changes in Forcecardiography Heartbeat Morphology Induced by Cardio-Respiratory Interactions
+,N,"Changes of Fragmented QRS Wave, Echocardiography and 2D-STI Parameters in Patients with AMI after PCI; [AMI患者PCI术后碎裂QRS波、超声心动图及2D-STI参数的变化]"
+,N,Characteristics of cavotricuspid isthmus-dependent atrial flutter after left atrial ablation of atrial fibrillation.
+,N,Characterization of surrogate parameters for blood pressure regulation in neurally-mediated syncope.
+,N,Chest Pulse-Wave Velocity: A Novel Approach to Assess Arterial Stiffness
+,N,Classification of Congestive Heart Failure from ECG Segments with a Multi-Scale Residual Network
+,N,Clinical and Electrophysiologic Characteristics of Intra-Istmus Reentry
+,N,Clinical and experimental studies of coronary heart disease treated with yi-qi huo-xue injection.
+,N,"Clinical prediction of cavotricuspid isthmus dependence in patients referred for catheter ablation of ""typical"" atrial flutter."
+,N,Clinicopathologic evidence of myocardial injury in horses with acute abdominal disease.
+,N,Clonidine and prazosin in the treatment of hypertensive outpatients--a preliminary study.
+,N,Cognitive Impact and Psychophysiological Effects of Stress Using a Biomonitoring Platform
+,N,Cognitive Load Prediction from Multimodal Physiological Signals using Multiview Learning
+,N,"Comparative measurements of left ventricular ejection time by mechano-, echo- and electrical impedance cardiography."
+,N,Comparing Door-To-Balloon Time between ST-Elevation Myocardial Infarction Electrocardiogram and Its Equivalents
+,N,Comparing Ventricular Synchrony in Left Bundle Branch and Left Ventricular Septal Pacing in Pacemaker Patients
+,N,Comparison between Electrocardiographic and Earlobe Pulse Photoplethysmographic Detection for Evaluating Heart Rate Variability in Healthy Subjects in Short- and Long-Term Recordings
+,N,Comparison of Depolarization and Repolarization Parameters in Left vs. Right Ventricular Septal Pacingâ€”An Intraprocedural Electrocardiographic Study
+,N,Comparison of regular atrial tachycardia incidence after circumferential radiofrequency versus cryoballoon pulmonary vein isolation in real-life practice.
+,N,Comparison of the Efficacy and Safety of Adamgammadex with Sugammadex for Reversal of Rocuronium-Induced Neuromuscular Block: Results of a Phase II Clinical Trial
+,N,Comparison of the impedance cardiogram with continuous wave radar using body-contact antennas.
+,N,Comparison of TWA and PEP as indices of alpha2- and ss-adrenergic activation.
+,N,Comparison of yoga and walking-exercise on cardiac time intervals as a measure of cardiac function in elderly with increased pulse pressure.
+,N,Comparitive [Comparative] study of the indexes of pulmonary arterial pressure of healthy children at different altitudes by Doppler echocardiography
+,N,Computer determination of systolic time intervals based on impedance cardiography.
+,N,Computers in cardiology/physionet challenge 2004: AF classification based on clinical features
+,N,Continuous monitoring of cardiac output from TCG signals
+,N,Continuous systolic blood pressure measurement based on improved pulse transit time
+,N,Conversion to partial isthmus-dependent flutter during cavotricuspid isthmus ablation: The utility of Advisor HD grid in identifying local fragment electrograms
+,N,Coronary Computed Tomography Angiography with Deep Learning Image Reconstruction: A Preliminary Study to Evaluate Radiation Exposure Reduction
+,N,Correlation of echocardiographic derived systolic time intervals in heart failure patients with other left ventricular systolic indices
+,N,Cuff-Less Estimation of Blood Pressure Using Pulse Transit Time and Pre-ejection Period
+,N,Cuffless Estimation of Systolic Blood Pressure for Short Effort Bicycle Tests: The Prominent Role of the Pre-Ejection Period
+,N,Decrease of electrical cardiac systole
+,N,Deep Contrastive Learning-Based Model for ECG Biometrics
+,N,Deep-Learning Model to Predict Coronary Artery Calcium Scores in Humans from Electrocardiogram Data
+,N,Delayed Ventricular Repolarization and Sodium Channel Current Modification in a Mouse Model of Rett Syndrome
+,N,"Deriving Accurate Nocturnal Heart Rate, rMSSD and Frequency HRV from the Oura Ring"
+,N,Design and developing a photoplethysmographic device dedicated to the evaluation of representative indexes in the response to vascular filling using systolic time intervals
+,N,Desmethylimipramine and imipramine on left ventricular function and the ECG: a randomized crossover design.
+,N,Detecting heart failure from B-mode ultrasound characterization of arterial pulse waves
+,N,Detection and hemodynamic significance of cardiac pacemaker-induced phrenic nerve stimulation.
+,N,Detection of Left Ventricular Ejection Fraction Abnormality Using Fusion of Acoustic and Biopotential Characteristics of Precordium
+,N,Detection of microvascular injury by evaluating epicardial blood flow in early reperfusion following primary angioplasty.
+,N,Detection of opening and closing of the aortic valve using impedance cardiography and its validation by echocardiography
+,N,Detection of Patients with Congenital and Often Concealed Long-QT Syndrome by Novel Deep Learning Models
+,N,Determination of heart rate variability with an electronic stethoscope
+,N,Development and Evaluation of a Virtual Environment to Assess Cycling Hazard Perception Skills
+,N,Development and Validation of an Algorithm for the Digitization of ECG Paper Images
+,N,Development of a Finger-Ring-Shaped Hybrid Smart Stethoscope for Automatic S1 and S2 Heart Sound Identification
+,N,Development of a new non-invasive system for fetal hypoxia diagnosis
+,N,Device profile of the Coala Heart Monitor for remote monitoring of the heart rhythm: overview of its efficacy.
+,N,Diagnostic Accuracy of a Portable ECG Device in Rowing Athletes
+,N,Diastolic intervals in cardiomyopathy and abnormal thyroid states: alterations in isovolumic relaxation time and rapid filling time of depressed and enhanced myocardial contractility.
+,N,Diastolic isthmus length and 'vertical' isthmus angulation identify patients with difficult catheter ablation of typical atrial flutter: A pre-procedural MRI study.
+,N,Diastolic time - Frequency relation in the stress echo lab: Filling timing and flow at different heart rates
+,N,Different electrophysiological characteristics of cavo-tricuspid isthmus dependent atrial flutter guided by robotic magnetic navigation in patients with and without prior cardiac surgery.
+,N,Differential effects of digoxin at comparable concentrations in tissues of fetal and adult sheep.
+,N,Dispersion of repolarization in canine ventricle and the electrocardiographic T wave: Tp-e interval does not reflect transmural dispersion.
+,N,Disposition kinetics of the relative increase in electrocardiographic time intervals (DISKRIETI): A novel method for the evaluation of the cardiac effects of antimalarial drugs
+,N,Diuretic induced long term hemodynamic changes in hypertension. A retrospective study in a MRFIT clinical center.
+,N,Dose-dependent shortening of systolic time intervals after intake of pengitoxin.
+,N,Dynamic Bayesian Model for Detecting Obstructive Respiratory Events by Using an Experimental Model
+,N,Dynamic response of the Initial Systolic Time Interval to a breathing stimulus measured with impedance cardiography
+,N,Early assessment of ventricular synchronization and function after left bundle-branch-area pacing with right bundle-branch block.
+,N,Early Detection of Atrial Fibrillation Based on ECG Signals
+,N,Early repolarization pattern on ECG predicts worse outcomes in patients hospitalized due to chronic heart failure decompensation
+,N,ECG Changes in Melanoma Patients Undergoing Cancer Therapyâ€”Data from the ECoR Registry
+,N,ECG QT-I nterval Measurement Using Wavelet Transformation
+,N,ECG-Based Semi-Supervised Anomaly Detection for Early Detection and Monitoring of Epileptic Seizures
+,N,ECG-derived markers to identify patients prone to atrial fibrillation
+,N,ECG-Free Heartbeat Detection in Seismocardiography and Gyrocardiography Signals Provides Acceptable Heart Rate Variability Indices in Healthy and Pathological Subjects
+,N,ECG-gated 99mTc single-photon emission CT for assessment of right ventricular structure and function: Is the information provided similar to echocardiography?
+,N,"Editorial: Cardiac Vibration Signals: Old Techniques, New Tricks, and Applications"
+,N,Effect of 60 degrees head-up tilt on systolic time intervals in hypertensive patients.
+,N,Effect of 60° head-up tilt on systolic time intervals in hypertensive patients
+,N,Effect of a Percutaneous Coronary Intervention Procedure on Heart Rate Variability and Pulse Transit Time Variability: A Comparison Study Based on Fuzzy Measure Entropy
+,N,Effect of Cardiac Phase on Cardiac Output Index Derived from Dynamic CT Myocardial Perfusion Imaging
+,N,Effect of Cycling on a Stationary Bike While Performing Assembly Tasks on Human Physiology and Performance Parameters
+,N,Effect of exercise on left ventricular ejection time in patients with prolapsing mitral leaflet syndrome.
+,N,Effect of exogenous glucagon on left-ventricular contraction dynamics during restitution after exercise in healthy men.
+,N,Effect of head-up tilting on systolic time intervals in normal young volunteers.
+,N,Effect of measurement location on cardiac time intervals estimated by seismocardiography
+,N,Effect of orthostatic stress on systolic time intervals in rabbits.
+,N,Effect of several cigarettes smoked uninterruptedly on left ventricular systolic time intervals in healthy subjects.
+,N,Effect of the time of the day on left ventricular systole and diastole dynamics.
+,N,Effect of training on left ventricular contraction dynamics at rest and during maximal exercise.
+,N,"Effects of 4-aminopyridine on cardiac repolarization, PR interval, and heart rate in patients with spinal cord injury"
+,N,Effects of Ballistocardiogram Peak Detection Jitters on the Quality of Heart Rate Variability Features: A Simulation-Based Case Study in the Context of Sleep Staging
+,N,Effects of Different Fasting Interventions on Cardiac Autonomic Modulation in Healthy Individuals: A Secondary Outcome Analysis of the EDIF Trial
+,N,Effects of dobutamine on isovolumic and ejection phase indices of cardiac contractility in conscious healthy dogs.
+,N,Effects of Sex on the Susceptibility for Atrial Fibrillation in Pigs with Ischemic Heart Failure
+,N,Efficiency of CIDR-Based Protocols Including GnRH Instead of eCG for Estrus Synchronization in Sheep
+,N,Efficient Real-Time R and QRS Detection Method Using a Pair of Derivative Filters and Max Filter for Portable ECG Device
+,N,Elasticity-based determination of isovolumetric phases in the human heart
+,N,Electrocardiogram Changes in the Postictal Phase of Epileptic Seizure: Results from a Prospective Study
+,N,Electrocardiogram Features of Left Ventricular Excessive Trabeculation with Preserved Cardiac Function in Light of Cardiac Magnetic Resonance and Genetics.
+,N,Electrocardiographic Abnormalities and Mortality in Epilepsy Patients
+,N,"Electrocardiographic and clinical anticipation of the left ventricular systolic function, systemic vascular resistance, and myocardial hypertrophy--normal values and validation of method in patients with arterial hypertension."
+,N,Electrocardiographic Approach to Atrial Flutter: Classifications and Differential Diagnosis.
+,N,Electrocardiographic Changes Associated with Early Repolarization Pattern in Healthy Young Males
+,N,Electrocardiography and Doppler echocardiography for risk stratification in patients with chronic heart failure: Incremental prognostic value of QRS duration and a restrictive mitral filling pattern
+,N,"Electrophysiological and haemodynamic changes with trazodone, amitriptyline and placebo in depressed out-patients."
+,N,Empirical mode decomposition in analysis of hemodynamic response to static handgrip
+,N,Enhancing Comprehensive Assessments in Chronic Heart Failure Caused by Ischemic Heart Disease: The Diagnostic Utility of Holter ECG Parameters
+,N,Enoximone therapy as pharmacological bridging to cardiac transplantation.
+,N,Entropic Measures of Complexity of Short-Term Dynamics of Nocturnal Heartbeats in an Aging Population
+,N,Entropy Analysis of RR and QT Interval Variability during Orthostatic and Mental Stress in Healthy Subjects
+,N,Entropy Information of Cardiorespiratory Dynamics in Neonates during Sleep
+,N,Entropy Measures in the Assessment of Heart Rate Variability in Patients with Cardiodepressive Vasovagal Syncope
+,N,Estimation of Respiratory Frequency in Women and Men by Kubios HRV Software Using the Polar H10 or Movesense Medical ECG Sensor during an Exercise Ramp
+,N,"Evaluation of asymptomatic patients with chronic Chagas disease through ambulatory electrocardiogram, echocardiogram and B-Type natriuretic peptide analyses."
+,N,Evaluation of Atrial Electromechanical Delay to Predict Atrial Fibrillation in Hemodialysis Patients
+,N,Evaluation of cardiac function in patients with thalassemia intermedia.
+,N,Evaluation of Cardiac Repolarization Indices in Epilepsy Patients Treated with Carbamazepine and Valproic Acid
+,N,Evaluation of doxorubicin cardiotoxicity in patients treated intermittently with beta-methyldigoxin.
+,N,Evaluation of ECG Features for the Classification of Post-Stroke Survivors with a Diagnostic Approach
+,N,Evaluation of factors affecting persistence of atrial fibrillation in patients with concomitant atrial flutter treated with percutaneous radiofrequency current ablation of the right atrial cavotricuspid isthmus.
+,N,Evaluation of myocardial performance during wheelchair ergometer exercise.
+,N,Evaluation of Prognostic Outcomes in Patients with Acute Myocardial Infarction by 2D-STI Combined with Dynamic Electrocardiogram; [2D-STI联合动态心电图对急性心肌梗死患者预后结局的评估]
+,N,Evaluation of Stress Levels of Trainee Cardiac Surgery Residents during Training Interventions Using Physiological Stress Parameters
+,N,Experimental Study for Determining the Parameters Required for Detecting ECG and EEG Related Diseases during the Timed-Up and Go Test
+,N,"Exploring Seafarersâ€™ Workload Recognition Model with EEG, ECG and Task Scenariosâ€™ Complexity: A Bridge Simulation Study"
+,N,Extraction of Fetal Electrocardiogram by Combining Deep Learning and SVD-ICA-NMF Methods
+,N,"Extraordinary efficacy of 16 alpha-gitoxin, an ultra-short acting semi-synthetic digitalis glycoside."
+,N,Factors Related to Percutaneous Coronary Intervention among Older Patients with Heart Disease in Rural Hospitals: A Retrospective Cohort Study
+,N,Farnesyltransferase inhibitors: Overview of their action and role in solid malignancy therapy
+,N,Feasibility and accuracy of mobile QT interval monitoring strategies in bedaquiline-enhanced prophylactic leprosy treatment.
+,N,Feature Extraction of the VSD Heart Disease based on Audicor Device Measurement
+,N,Fetal cardiac time intervals in healthy pregnancies - An observational study by fetal ECG (Monica Healthcare System)
+,N,Fetal cardiac time intervals in healthy pregnancies - an observational study by fetal ECG (Monica Healthcare System).
+,N,Fetal Heart Rate < 3rd Percentile for Gestational Age Can Be a Marker of Inherited Arrhythmia Syndromes
+,N,Fetal Heart Rate Analysis in Pregnancies Complicated by Gestational Diabetes Mellitus: A Prospective Multicentre Observational Study
+,N,Fetal magnetocardiography (fMCG): Moving forward in the establishment of clinical reference data by advanced biomagnetic instrumentation and analysis
+,N,Fiducial Point Estimation Solution for Impedance Cardiography Measurements
+,N,Focal atrial tachycardia arising from the cavotricuspid isthmus with saw-tooth morphology on the surface ECG: Electrocardiographic and electrophysiologic characteristics.
+,N,Frequency-Based Maternal Electrocardiogram Attenuation for Fetal Electrocardiogram Analysis
+,N,Functional Characterization of a Spectrum of Novel Romano-Ward Syndrome KCNQ1 Variants
+,N,Glucose and Fructose Supplementation and Their Acute Effects on Electrocardiographic Time Intervals during Anaerobic Cycling Exercise in Healthy Individuals: A Secondary Outcome Analysis of a Double-Blind Randomized Crossover-Controlled Trial
+,N,Gonadotropin stimulation increases the expression of angiotensin-(1--7) and MAS receptor in the rat ovary.
+,N,Graphics-Processor-Unit-Based Parallelization of Optimized Baseline Wander Filtering Algorithms for Long-Term Electrocardiography
+,N,Gyrocardiography: A New Non-invasive Monitoring Method for the Assessment of Cardiac Mechanics and the Estimation of Hemodynamic Variables.
+,N,Habituation of the stress response multiplex to repeated cold pressor exposure.
+,N,Haemodynamic changes associated with atropine/neostigmine administration. A non-invasive investigation.
+,N,Harnessing the Manifold Structure of Cardiomechanical Signals for Physiological Monitoring During Hemorrhage
+,N,HEAR: Approach for Heartbeat Monitoring with Body Movement Compensation by IR-UWB Radar
+,N,"Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms of Healthy Volunteers and Patients with Valvular Heart Diseases"
+,N,"Heart Rate Variability Analysis on Electrocardiograms, Seismocardiograms and Gyrocardiograms on Healthy Volunteers"
+,N,Heart Rate Variability and Global Longitudinal Strain for Prognostic Evaluation and Recovery Assessment in Conservatively Managed Post-Myocardial Infarction Patients
+,N,Heart Rate Variability Monitoring during Sleep Based on Capacitively Coupled Textile Electrodes on a Bed
+,N,Heartbeats Do Not Make Good Pseudo-Random Number Generators: An Analysis of the Randomness of Inter-Pulse Intervals
+,N,Heartprint: A Dataset of Multisession ECG Signal with Long Interval Captured from Fingers for Biometric Recognition
+,N,"Heavy alcohol use, rather than alcohol dependence, is associated with dysregulation of the hypothalamic-pituitary-adrenal axis and the autonomic nervous system."
+,N,"Hemodynamic and humoral effects at rest and after head-up tilt tests during 24-hour infusion of a new nitrate ester, ITF 296, compared with ISDN and placebo in healthy volunteers: a double-blind, randomized, within-subject study."
+,N,Hemodynamic effects of epinephrine in rats: evaluation by impedance cardiography.
+,N,Hemodynamic monitoring during long term space flight - Comparison between lateral (4 electrodes) and longitudinal (8 electrodes) impedance cardiography techniques
+,N,Heritability of indices for cardiac contractility in ambulatory recordings.
+,N,Holter ECG Monitoring during Research Bronchofiberoscopy in Patients with Asthma
+,N,Holter-type impedance cardiography device. A system for continuous and non-invasive monitoring of cardiac haemodynamics.
+,N,How to define end-diastole and end-systole?: Impact of timing on strain measurements.
+,N,Human-Assisted vs. Deep Learning Feature Extraction: An Evaluation of ECG Features Extraction Methods for Arrhythmia Classification Using Machine Learning
+,N,Hybrid Deep Learning and Discrete Wavelet Transform-Based ECG Biometric Recognition for Arrhythmic Patients and Healthy Controls
+,N,Hybrid Feature Selection and Classifying Stages through Electrocardiogram (ECG) Signal for Heart Disease Prediction
+,N,Hybrid machine learning to localize atrial flutter substrates using the surface 12-lead electrocardiogram.
+,N,Hypothyroidism and Heart Rate Variability: Implications for Cardiac Autonomic Regulation
+,N,Identifying fetal heart anomalies using fetal ECG and Doppler cardiogram signals
+,N,IEEE Standard for Wearable Cuffless Blood Pressure Measuring Devices
+,N,Imaging of heart acoustic based on the sub-space methods using a microphone array
+,N,Impact of paramedic education on door-to-balloon times and appropriate use of the primary PCI pathway in ST-elevation myocardial infarction.
+,N,In utero diagnosis of long QT syndrome by magnetocardiography
+,N,Incidence of Atrial Fibrillation in African Americans post Atrial Flutter Ablation.
+,N,"Incidence, duration, pattern, and burden of de novo atrial arrhythmias detected by continuous ECG monitoring using an implantable loop recorder following ablation of the cavotricuspid isthmus."
+,N,Indirect measurement of the carotid arterial pressure from vibrocardiographic signal: Calibration of the waveform and comparison with photoplethysmographic signal
+,N,Influence of Photoplethysmogram Signal Quality on Pulse Arrival Time during Polysomnography
+,N,Initial Systolic Time Interval (ISTI) as a predictor of Intradialytic Hypotension (IDH)
+,N,Intelligent phonocardiogram analysis and representation tool
+,N,Inter-Patient Atrial Flutter Classification Using FFT-Based Features and a Low-Variance Stacking Classifier.
+,N,Interval-Based LDA Algorithm for Electrocardiograms for Individual Verification
+,N,Investigating the Immediate Influence of Moderate Pedal Exercises during an Assembly Work on Performance and Workload in Healthy Men
+,N,Is electrocardiography a reliable tool for identifying patients with isthmus-dependent atrial flutter?
+,N,Is proximal coronary sinus involved in the circuit in some cases of ECG “typical” atrial flutter?
+,N,Late potential recognition by artificial neural networks.
+,N,Left ventricular ejection times during exercise testing with scintigraphy. Their use in the detection of ischemic heart disease.
+,N,Left ventricular function after myocardial infarction: relation between systolic time intervals and quantitative ischaemic ECG changes.
+,N,Left ventricular function in varicose veins.
+,N,Left ventricular performance during and after sickle cell crisis.
+,N,Left ventricular systolic function in dogs with pulmonic stenosis
+,N,Long term outcome of cavotricuspid isthmus cryoablation for the treatment of common atrial flutter in 180 patients: A single center experience.
+,N,Longitudinal layered strain in observation on left ventricular systolic function of breast cancer patients during neoadjuvant chemotherapy; [纵向分层应变评价乳腺癌新辅助化疗患者左心室收缩功能]
+,N,Long-term coenzyme Q10 therapy: a major advance in the management of resistant myocardial failure.
+,N,Long-term ECG monitoring using an implantable loop recorder for the detection of atrial fibrillation after cavotricuspid isthmus ablation in patients with atrial flutter-
+,N,Long-term ECG monitoring using an implantable loop recorder for the detection of atrial fibrillation after cavotricuspid isthmus ablation in patients with atrial flutter.
+,N,Long-term follow-up in arrhythmogenic right ventricular cardiomyopathy using tissue Doppler imaging
+,N,Measurement of systolic time intervals by electrical plethysmography: validation with invasive and noninvasive methods.
+,N,Measurement of systolic time intervals during exercise using inductive plethysmography.
+,N,Measurements of systolic time intervals using a transoesophageal pulsed echo-Doppler.
+,N,Measures of spatiotemporal organization differentiate persistent from long-standing atrial fibrillation.
+,N,Measuring Electromechanical Coupling in Patients with Coronary Artery Disease and Healthy Subjects
+,N,Mechanical deconditioning of the heart due to long-term bed rest as observed on seismocardiogram morphology.
+,N,Mechanisms of Intra-Atrial Re-Entrant Tachycardias in Congenital Heart Disease: Types and Predictors.
+,N,Mechanocardiogram Measured at the Back of Subjects Sitting in a Chair as a Non-intrusive Pre-ejection Period Measurement
+,N,Mechanocardiography detects improvement of systolic function caused by resynchronization pacing.
+,N,Missing RRI Interpolation Algorithm based on Locally Weighted Partial Least Squares for Precise Heart Rate Variability Analysis
+,N,Mobile Cardiac Acoustic Monitoring System to Evaluate Left Ventricular Systolic Function in Pacemaker Patients.
+,N,"Moderately Prolonged QTc in Computer-Assessed ECG, Random Variation or Significant Risk Factor? A Literature Review"
+,N,Molecularly targeted therapies in myelodysplastic syndromes and acute myeloid leukemias
+,N,Morphographic Changes in the Electrocardiogram of Colossoma macropomum Caused by Exposure to Manganese
+,N,Multimodal Assessment of the Pulse Rate Variability Analysis Module of a Photoplethysmography-Based Telemedicine System
+,N,Multiscale Cumulative Residual Dispersion Entropy with Applications to Cardiovascular Signals
+,N,Multi-Session Electrocardiogramâ€“Electromyogram Database for User Recognition
+,N,Mutational analysis and overcoming imatinib resistance in chronic myeloid leukemia with novel tyrosine kinase inhibitors
+,N,Myocardial Contractility Assessment using Fiber Optic Sensors
+,N,Myocardial contractility in chickens (Gallus gallus): Analysis of systolic time intervals
+,N,Myocardial contractility: A seismocardiography approach.
+,N,Myocardial infarction with nonobstructive coronaries (MINOCA) following rabies postexposure prophylaxis: A case report.
+,N,Natural history and postoperative evaluation of complete transposition of the great arteries.
+,N,New automated detection method of OSA based on artificial neural networks using P-wave shape and time changes
+,N,New non-invasive approach to detect cardiac contractility using the first sound of phonocardiogram.
+,N,New Observations on Mapping and Ablation of Atrial Flutter
+,N,New-onset atrial fibrillation after cavotricuspid isthmus ablation: Identification of advanced interatrial block is key.
+,N,Nilotinib therapy in chronic myelogenous leukemia: The strength of high selectivity on BCR/ABL
+,N,Nocturnal Heart Rate Variability Might Help in Predicting Severe Obstructive Sleep-Disordered Breathing
+,N,Nonalcoholic Fatty Liver Disease Is Related to Abnormal Corrected QT Interval and Left Ventricular Hypertrophy in Chinese Male Steelworkers
+,N,Non-contact assessment of cardiac physiology using FO-MVSS-based ballistocardiography: a promising approach for heart failure evaluation
+,N,Noninvasive Accelerometric Approach for Cuffless Continuous Blood Pressure Measurement
+,N,Non-invasive assessment of cardiac function in meningitis.
+,N,Noninvasive assessment of left ventricular function related to serum digoxin levels in neonates.
+,N,Noninvasive cardiovascular monitoring based on electrocardiography and ballistocardiography: a feasibility study on patients in the surgical intensive care unit.
+,N,Noninvasive characterization of intra-atrial reentrant tachyarrhythmias after surgical repair of congenital heart diseases.
+,N,Noninvasive continuous blood pressure estimation with peripheral pulse transit time
+,N,Non-Invasive Heart Failure Evaluation Using Machine Learning Algorithms
+,N,Noninvasive Hemodynamic Monitoring in Advanced Heart Failure Patients: New Approach for Target Treatments
+,N,Non-Invasive Measurement for Cardiac Variations Using a Fiber Optic Sensor
+,N,"Non-invasive measurement of volume-time curves in patients with mitral regurgitation and in healthy volunteers, using a new operator-independent screening tool."
+,N,Noninvasive tests to evaluate the severity of aortic stenosis. Limitations and reliability.
+,N,"Nonphysiological left heart AV intervals as a result of DDD and AAI ""physiological"" pacing."
+,N,Novel DERMA Fusion Technique for ECG Heartbeat Classification
+,N,NT-proBNP for prognostic and diagnostic evaluation in patients with acute coronary syndromes.
+,N,"Obesity, Nutrition and Heart Rate Variability"
+,N,On the Impact of the Data Acquisition Protocol on ECG Biometric Identification
+,N,On the Robustness of Multiscale Indices for Long-Term Monitoring in Cardiac Signals
+,N,On the Variability of Heart Rate Variabilityâ€”Evidence from Prospective Study of Healthy Young College Students
+,N,Outcomes of cavotricuspid isthmus-dependent flutter ablation: randomized study comparing single vs. multiple catheter procedures-the SIMPLE study.
+,N,Overdosage of antidepressants: clinical and pharmacokinetic aspects.
+,N,Oxygen Saturation and RR Intervals Feature Selection for Sleep Apnea Detection
+,N,Pathophysiology of Typical Atrial Flutter.
+,N,PE3-034 A Case of Left Ventricular Noncompaction Accompanying Fasciculo-Ventricular Accessory Pathway and Atrial Flutter
+,N,Pelvic Electric Potential as a Marker of Autonomic Dysfunctions and Risk Factor of Neurogenic Arrhythmias in Humans.
+,N,PEP reward reactivity moderates the effects of RSA reactivity on antisocial behavior and substance use.
+,N,Periovulatory Hormonal Profiles after Estrus Induction and Conception Rate by Fixed-Time AI in Payoya Goats during the Anestrous Season
+,N,Persistent Increase of Sympathetic Activity in Post-Acute COVID-19 of Paucisymptomatic Healthcare Workers
+,N,Pharmacy-Based Opportunistic Atrial Fibrillation Screening at a Community Level: A Real-Life Study.
+,N,Physiological responses to workload change. A test/retest examination
+,N,Post-Exercise Recovery of Ultra-Short-Term Heart Rate Variability after Yo-Yo Intermittent Recovery Test and Repeated Sprint Ability Test
+,N,Practical Application of a New Cuffless Blood Pressure Measurement Method
+,N,Preclinical cardiomyopathy in chronic alcoholics: a sex difference.
+,N,Prediction and Detection of Ventricular Fibrillation Using Complex Features and AI-Based Classification
+,N,Prediction and monitoring of fluid responsiveness after coronary bypass surgery using the Initial Systolic Time Interval: Preliminary results
+,N,Prediction of atrial fibrillation termination by catheter ablation using adaptive frequency tracking of atrial ECG signals
+,N,Prediction of electrocardiography features points using seismocardiography data: A machine learning approach
+,N,Prediction of pregnancy outcome by combined analysis of the fetal electrocardiogram and systolic time intervals.
+,N,Prediction of the progression of cardiac hypertrophy in middle-aged mild hypertensives.
+,N,Predictors of unusual ECG characteristics in cavotricuspid isthmus-dependent atrial flutter ablation.
+,N,Preliminary experience of permanent left bundle branch area pacing using stylet-directed pacing lead without delivery sheath.
+,N,Prevalence and Clinical Characteristics of Patients with Torsades de Pointes Complicating Acquired Atrioventricular Block
+,N,Preventing atrial fibrillation by combined right isthmus ablation and cryoballoon pulmonary vein isolation in patients with typical atrial flutter: PAF-CRIOBLAF study.
+,N,Printed and Flexible ECG Electrodes Attached to the Steering Wheel for Continuous Health Monitoring during Driving
+,N,Private Weakly-Random Sequences from Human Heart Rate for Quantum Amplification
+,N,Prolonged fetal pre-ejection period corrected for PR interval associated with cerebral palsy.
+,N,Prospective Evaluation of a Standardized Screening for Atrial Fibrillation after Ablation of Cavotricuspid Isthmus Dependent Atrial Flutter.
+,N,Prospective observations in the clinical and electrophysiological characteristics of intra-isthmus reentry.
+,N,Prospective randomized comparison of durability of bidirectional conduction block in the cavotricuspid isthmus in patients after ablation of common atrial flutter using cryothermy and radiofrequency energy: The CRYOTIP study.
+,N,Prospective teachers' problem solving skills and self-confidence levels
+,N,Protective effects of Carthamus tinctorius injection on isoprenaline-induced myocardial injury in rats.
+,N,Protein Kinase B2 (PKB2/AKT2) Is Essential for Host Protection in CVB3-Induced Acute Viral Myocarditis
+,N,"pRR30, pRR3.25% and Asymmetrical Entropy Descriptors in Atrial Fibrillation Detection"
+,N,Pseudo Asynchronous Level Crossing adc for ecg Signal Acquisition
+,N,Pulmonary Vein Isolation to Reduce Future Risk of Atrial Fibrillation in Patients Undergoing Typical Flutter Ablation: Results from a Randomized Pilot Study (REDUCE AF).
+,N,Pulse transit time measured from the ECG: an unreliable marker of beat-to-beat blood pressure.
+,N,QT interval instability and QRS interval dispersion in healthy cats and cats with a hypertrophic cardiomyopathy phenotype.
+,N,QT interval measurements
+,N,Quantifying and Reducing Posture-Dependent Distortion in Ballistocardiogram Measurements
+,N,Radiofrequency ablation of coronary sinus-dependent atrial flutter guided by fractionated mid-diastolic coronary sinus potentials.
+,N,Randomised comparison of the cardiac effects of halofantrine and chloroquine plus chlorpheniramine in children with acute falciparum malaria using a novel method: Disposition kinetics of the relative increase in electrocardiographic time intervals (DISKRIETI)
+,N,Rapid Assessment of Cardiac Contractility on a Home Bathroom Scale
+,N,Real-Time Magnetocardiography with Passive Miniaturized Coil Array in Earth Ambient Field
+,N,Real-Time Psychological Stress Detection According to ECG Using Deep Learning
+,N,ReBeatICG: Real-time Low-Complexity Beat-to-beat Impedance Cardiogram Delineation Algorithm.
+,N,Recent advances in the development of novel anti-cancer drugs targeting cancer stem/progenitor cells
+,N,Recommended Standards for Fetal Magnetocardiography
+,N,Recovery Assessment of Open-heart Cardiac Surgery Patients Using Heart Rate Variability Parameters
+,N,Recovery from Severe COVID-19 Is an Independent Predictor of Electrocardiographic Abnormal P-Wave Axis
+,N,Reduced caregiving quality measured during the strange situation procedure increases child's autonomic nervous system stress response.
+,N,"Reduction of radiation exposure during atrial fibrillation ablation using a novel fluoroscopy image integrated 3-dimensional electroanatomic mapping system: A prospective, randomized, single-blind, and controlled study"
+,N,Reentry mechanisms and ablation of ECG-typical atrial flutters involving the cavo-tricuspid isthmus and the proximal coronary sinus.
+,N,Reliable Detection of Atrial Fibrillation with a Medical Wearable during Inpatient Conditions
+,N,Remotely Controlled Real-Time Health Surveillance System of COVID-19 Patients
+,N,Responses to voluntary hyperventilation in children with separation anxiety disorder: implications for the link to panic disorder.
+,N,Rhythm Analysis during Cardiopulmonary Resuscitation Using Convolutional Neural Networks
+,N,Role of Heart Rate Variability in Predicting Post-Endoscopic Retrograde Cholangiopancreatography Pancreatitis.
+,N,Role of left atrial speckle tracking echocardiography in predicting persistent atrial fibrillation electrical cardioversion success and sinus rhythm maintenance at 6 months.
+,N,RZ Interval as an Impedance Cardiography Indicator of Effort-Related Cardiac Sympathetic Activity.
+,N,Safety and efficacy of long-term sodium channel blocker therapy for early rhythm control: the EAST-AFNET 4 trial.
+,N,Safety of single-dose bedaquiline combined with rifampicin for leprosy post-exposure prophylaxis: A Phase 2 randomized non-inferiority trial in the Comoros Islands.
+,N,SDNN24 Estimation from Semi-Continuous HR Measures
+,N,Seismocardiography-based detection of cardiac quiescence
+,N,Severity of aortic stenosis assessed by carotid pulse recordings and phonocardiography.
+,N,Sex Differences in Mouse Cardiac Electrophysiology Revealed by Simultaneous Imaging of Excitation-Contraction Coupling
+,N,Short-Term Effect of Percutaneous Coronary Intervention on Heart Rate Variability in Patients with Coronary Artery Disease
+,N,Short-Term Effects of 3D-Printed Occlusal Splints and Conventional Splints on Sleep Bruxism Activity: EMGâ€“ECG Night Recordings of a Sample of Young Adults
+,N,Short-term hemodynamic variability in supine and tilted position in young women
+,N,Sildenafil citrate therapy in 22 dogs with pulmonary hypertension
+,N,Similarity Changes Analysis for Heart Rate Fluctuation Regularity as a New Screening Method for Congestive Heart Failure
+,N,"Sleep Stage Classification Through HRV, Complexity Measures, and Heart Rate Asymmetry Using Generalized Estimating Equations Models"
+,N,Sleep Stage Estimation from Bed Leg Ballistocardiogram Sensors
+,N,Spontaneous Scar-Based Atypical and Typical AFL
+,N,StressNet: Detecting Stress in Thermal Videos
+,N,Structural and functional affection of the heart in protein energy malnutrition patients on admission and after nutritional recovery.
+,N,"Structural, Pro-Inflammatory and Calcium Handling Remodeling Underlies Spontaneous Onset of Paroxysmal Atrial Fibrillation in JDP2-Overexpressing Mice"
+,N,Study of STI change characteristics of different groups during exhaustive load process with vibration and friction
+,N,Study of the Arrhythmogenic Profile of Dogs with Myxomatous Mitral Valve Disease in Stages B1 and B2
+,N,Study on the variability of pulse wave and ECG of graduate students with different body positions
+,N,Subcutaneously Insertable Cardiac Monitor for Atrial Fibrillation and HF Using ECG and Phonocardiography as Biomarkers
+,N,Supermarket/Hypermarket Opportunistic Screening for Atrial Fibrillation (SHOPS-AF): A Mixed Methods Feasibility Study Protocol.
+,N,Suppressing the Influence of Ectopic Beats by Applying a Physical Threshold-Based Sample Entropy
+,N,Surface electrocardiographic characteristics of right and left atrial flutter.
+,N,Susceptibility to paroxysmal atrial fibrillation: A study using sinus rhythm P wave parameters
+,N,Systolic Blood Pressure Estimation Using Wearable Radar and Photoplethysmogram Signals
+,N,Systolic time interval as index of schedule--dependent doxorubicin cardiotoxicity in patients with acute myelogenous leukaemia.
+,N,Systolic time intervals after a seven-day orbital flight.
+,N,Systolic time intervals as a measure of left ventricular function in viscose rayon workers exposed to carbon disulfide.
+,N,Systolic time intervals in burn injury.
+,N,Systolic time intervals in induced atrial fibrillation in the dog.
+,N,Systolic time intervals in the nonasphyxiated fetus.
+,N,Telemedicine for Pre-Employment Medical Examinations and Follow-Up Visits on Board Ships: A Narrative Review on the Feasibility
+,N,Textrode-enabled transthoracic electrical bioimpedance measurements - Towards wearable applications of impedance cardiography
+,N,The benefit of tissue contact monitoring with an electrical coupling index during ablation of typical atrial flutter—a prospective randomised control trial.
+,N,The benefit of tissue contact monitoring with an electrical coupling index during ablation of typical atrial flutter--a prospective randomised control trial.
+,N,The cardiovascular effects of inhaled fenoterol alone and during treatment with oral theophylline.
+,N,The Case of Myocardial Infarction in a Fifteen-Year-Old Adolescent Caused by Toxic Substances
+,N,The Delineation of Fiducial Points for Non-Contact Radar Seismocardiogram Signals Without Concurrent ECG.
+,N,"The effect of mild dynamic exercise on the electromechanical systole of heart in non-athlete, healthy first year medical students of Bengal as a predictive biomarker of arrhythmia"
+,N,The effectiveness and feasibility of using multi-lead ECG monitoring combined with a programmed intracavitary ECG to complete left bundle branch area pacing.
+,N,"The effects of chewing versus caffeine on alertness, cognitive performance and cardiac autonomic activity during sleep deprivation."
+,N,The Effects of Compression on the Detection of Atrial Fibrillation in ECG Signals
+,N,The Framingham Study on Cardiovascular Disease Risk and Stress-Defenses: A Historical Review
+,N,The Hemisphere of the Brain in Which a Stroke Has Occurred Visible in the Heart Rate Variability
+,N,The hemodynamic and pharmacokinetic interactions between chronic use of oral levosimendan and digoxin in patients with NYHA Classes II- III heart failure
+,N,The Implantation of Left Bundle Branch Area Pacing in Patients with and without Bundle Branch Block.
+,N,The influence of cardiac preload and positive end-expiratory pressure on the pre-ejection period.
+,N,The pre-ejection period is a highly stress dependent parameter of paramount importance for pulse-wave-velocity based applications.
+,N,The Role of Galectin-3 Levels for Predicting Paroxysmal Atrial Fibrillation in Patients with Embolic Stroke of Undetermined Source
+,N,The sawtooth EKG pattern of typical atrial flutter is not related to slow conduction velocity at the cavotricuspid isthmus.
+,N,The Virtual Sleep Labâ€”A Novel Method for Accurate Four-Class Sleep Staging Using Heart-Rate Variability from Low-Cost Wearables
+,N,Therapeutic options for patients with clonal and idiopathic hypereosinophia
+,N,Time delays in ultrasound systems can result in fallacious measurements
+,N,Transcutaneous Cervical Vagus Nerve Stimulation Inhibits the Reciprocal of the Pulse Transit Time’s Responses to Traumatic Stress in Posttraumatic Stress Disorder.
+,N,"Tumor Necrosis Factor-Related Apoptosis-Inducing Ligand (TRAIL) in Patients after Acute Stroke: Relation to Stroke Severity, Myocardial Injury, and Impact on Prognosis"
+,N,Two-dimensional Speckle Tracking Imaging in Cardiotoxicity Caused by Treatment of Breast Carcinoma with Anthracyclines.
+,N,Two-dimensional speckle tracking imaging in evaluation of right ventricular myocardial function in patients with different region myocardial infarction in left ventricle
+,N,Unobtrusive Estimation of Cardiac Contractility and Stroke Volume Changes Using Ballistocardiogram Measurements on a High Bandwidth Force Plate.
+,N,Unusual mechanism of complete atrioventricular block following atrial flutter ablation.
+,N,Unveiling gender differences in psychophysiological dynamics: support for a two-dimensional autonomic space approach.
+,N,Use of a Cardiac Scale to Predict Heart Failure Events: Design of SCALE-HF 1
+,N,Usefulness of Combining Electrocardiographic and Echocardiographic Findings and Brain Natriuretic Peptide in Early Detection of Cardiac Amyloidosis in Subjects With Transthyretin Gene Mutation.
+,N,Usefulness of rapid bedside assay of cardiac troponin I and creatine phosphokinase-MB in acute ischemic coronary syndromes; [Utilidad de la determinación cualitativa de troponina I y creatinfosfocinasa isoenzima MB en los síndromes isquémicos coronarios agudos]
+,N,Using postoperative cardiac Troponin-I (cTi) levels to detect myocardial ischaemia in patients undergoing vascular surgery.
+,N,Using time interval parameters from impedance cardiography to evaluate autonomic nervous function in Parkinson's disease
+,N,Utility of the Full ECG Waveform for Stress Classification
+,N,Validation of a new impedance cardiography analysis algorithm for clinical classification of stress states.
+,N,Validation of Sympathetic Activity Index from Heartbeat series: a Preliminary Study on Pre-ejection periods
+,N,Validity and Efficacy of the Elite HRV Smartphone Application during Slow-Paced Breathing
+,N,Validity of the Polar H10 Sensor for Heart Rate Variability Analysis during Resting State and Incremental Exercise in Recreational Men and Women
+,N,Validity of the Polar V800 Monitor for Assessing Heart Rate Variability in Elderly Adults under Mental Stress and Dual Task Conditions
+,N,Value of multi-detector computed tomography in delineation of the normal cardiac conduction system and related anatomic structures
+,N,Variations in the pre-ejection period induced by ventricular extra systoles may be feasible to predict fluid responsiveness.
+,N,"Ventricular arrhythmia in Duchenne muscular dystrophy: prevalence, significance and prognosis."
+,N,"Ventricular Repolarization is Associated with Cognitive Function, but Not with Cognitive Decline and Brain Magnetic Resonance Imaging (MRI) Measurements in Older Adults"
+,N,Wavelet Entropy Automatically Detects Episodes of Atrial Fibrillation from Single-Lead Electrocardiograms
+,N,Wearable Seismocardiography-Based Assessment of Stroke Volume in Congenital Heart Disease
+,N,Wearable Sensing of In-Ear Pressure for Heart Rate Monitoring with a Piezoelectric Sensor
+,N,Weighing Scale-Based Pulse Transit Time is a Superior Marker of Blood Pressure than Conventional Pulse Arrival Time.
+,N,What Is the Importance of Electrocardiography in the Routine Screening of Patients with Repaired Tetralogy of Fallot?
+,N,Where to B in dZ/dt
+,,[4 different nitrate preparations with regard to the possible development of tolerance in long-term treatment].
+,,[A clinicopathologic study of valvular aortic stenosis in the aged].
+,,[A study to the analysis of systolic time intervals (author's transl)].
+,,[Activation sequence of the left atrium studied by esophageal leads].
+,,[Alcoholic cardiomyopathy in the preclinical stage: non-invasive clinico-instrumental research study on 112 chronic alcoholics].
+,,[Chronocardiometry in healthy children. II. Diastolic time intervals].
+,,[Clinical and experimental study of left ventricular diastolic function in heart qi insufficiency syndrome].
+,,[Comparative monitoring of pre-ejection-period and transcutaneously measured pO2 in neonatal period (author's transl)].
+,,[Comparitive [Comparative] study of the indexes of pulmonary arterial pressure of healthy children at different altitudes by Doppler echocardiography].
+,,[Dose-effect relation of N-prajmalium bitartrate with control of plasma levels].
+,,"[Dynamics of left ventricular contraction in patients with myocardial infarction after hospital rehabilitation, assessed by Doppler echocardiography]."
+,,[Echocardiograms of a monophasic triangular wave of the tricuspid valve].
+,,[Effect of ergonovine and the cold stress test on time intervals of left ventricular systole and their significance for the diagnosis of coronary heart disease].
+,,[Effects of the administration of acebutolol in patients with chronic angina of effort].
+,,[Electrocardiographic signs of atrial overload in hypertension].
+,,"[Evaluation of late surgical results in coronary disease supported by exercise stress test, noninvasive examination and work resumption]."
+,,[Exertion-electrocardiographic and hemodynamic studies with oral verapamil in chronic ischemic heart disease].
+,,[Existence of asymptomatic changes in left ventricular function in the diabetic. Noninvasive study].
+,,[Experimental observation on the relation between pericardium meridian and cardiac function].
+,,[Hypertensive cardiopathy: study of external tracings and noninvasive tests].
+,,[Influence of ventriculoatrial conduction on hemodynamic consequences in patients with artificial pacing].
+,,[Investigations of the left ventricular dynamics in stable-angina pectoris (AP)].
+,,[Left ventricular function in patient with diabetes mellitus--Evaluated by mechanocardiogram and echocardiogram].
+,,[Long-term therapy of chronic cardiac insufficiency using enoximone].
+,,[Measurement of systolic time intervals by echocardiographic and conventional methods (author's transl)].
+,,[Monitoring of heart function in the treatment with cardiotoxic cytostatic drugs].
+,,[Monitoring of Myocardial function during therapy with cardiotoxic cytostatics. Studies with the example of anthracycline-containing chemotherapy].
+,,"[New, non-invasive index for recognition of the early stages of cardiac insufficiency]."
+,,[Noninvasive cardia function diagnosis in children treated with adriamycin (author's transl)].
+,,[Noninvasive evaluation of left ventricular function using new systolic time intervals obtained from continuous-wave Doppler echocardiography].
+,,"[Noninvasive hemodynamic monitoring via the integration of data obtained by ECG, aortic flow by Doppler esophageal probe and by finger plethysmography]."
+,,[Non-invasive study of cardiovascular function using models of biological age].
+,,[Pharmacokinetics and acute signs of cardiac toxicity during doxorubicin therapy].
+,,[Phase analysis of the normal and postectopic left ventricular contractions in nonejection click-telesystolic apical murmur syndrome].
+,,[Phono-mechano-cardiographic assessment in hypertensive heart disease: value of the apex cardiographic parameters (author's transl)].
+,,[Pulsed Doppler echocardiographic findings in 117 professional cyclists].
+,,[Serum levels of beta-methyldigoxin and contractile efficiency of the myocardium evaluated with systolic polygraphy and determination of cardiac output].
+,,[Systolic time intervals of the left ventricle in neuromuscular diseases].
+,,[The pre-ejection-period of the human fetal heart: patterns of change during labour and heart-frequency alterations (author's transl)].
+,,[The stress systolic time intervals in the diagnosis of ischaemic heart disease. Study of the recovery in patients with persistent ischemia (author's transl)].
+,,[Use of systolic times and electrocardiography for the evaluation of left ventricle involvement in aortic valve diseases].
+,,[Usefulness of rapid bedside assay of cardiac troponin I and creatine phosphokinase-MB in acute ischemic coronary syndromes].
+,,[Value of the analysis of left-ventricular systolic time intervals in the diagnosis of ischemic heart disease provoked by intravenous infusion of isoproterenol].
+,,[Variation of cardiac cycle during prolonged cycling exercise].
