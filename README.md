@@ -1,2 +1,11 @@
-# Multimodal_ECG_PCG_Thesis
-I dont knoooooooow yet 
+# Mariana_Thesis
+
+## Literature Review
+
+Literature Review Excel: Details the search strategy
+
+  - Results from each database: DataBase - Query_Number
+  
+  - Duplicate Removal: Manual and Automatic
+  
+  - Screening: by Title and Abstract
